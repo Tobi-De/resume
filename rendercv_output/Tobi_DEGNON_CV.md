@@ -8,7 +8,7 @@
 
 # Summary
 
-I'm a backend Django developer with 4 years of experience. I've mostly worked at startups where I was in charge of the full technical aspects of product lifecycles, from architecture to deployment.
+Backend Django developer with 4 years of experience at startups, where I built products from the ground up, from architecture to deployment
 
 # Experience
 
@@ -76,5 +76,4 @@ I'm a backend Django developer with 4 years of experience. I've mostly worked at
 - French: Native Speaker
 # References
 
-- Aimé An-Nyong DEGBEY, Head of Development BFT Group: Said something nice
-- LOUMEDJINON Alex Gilles: Said something nice
+- Aimé An-Nyong DEGBEY, Head of Development BFT Group: 

@@ -8,7 +8,7 @@ cv:
       username: "tobi-de"
   sections:
     summary:
-      - "I'm a backend Django developer with 4 years of experience. I've mostly worked at startups where I was in charge of the full technical aspects of product lifecycles, from architecture to deployment."
+      - "Backend Django developer with 4 years of experience at startups, where I built products from the ground up, from architecture to deployment"
     experience:
       - company: "BFTGROUP"
         position: "Full Stack Web Developer"
@@ -75,8 +75,6 @@ cv:
         details: "Native Speaker"
     references:
       - label: "Aimé An-Nyong DEGBEY, Head of Development BFT Group"
-        details: "Said something nice"
-      - label: "LOUMEDJINON Alex Gilles"
-        details: "Said something nice"
+        details: ""
 design:
     theme: "engineeringresumes"
