@@ -76,4 +76,8 @@ Backend Django developer with 4 years of experience at startups, where I built p
 - French: Native Speaker
 # References
 
-- Aimé An-Nyong DEGBEY, Head of Development BFT Group: 
+## Aimé An-Nyong DEGBEY, Head of Development BFT Group
+
+- linkedin.com/in/aimé-an-nyong-degbey
+- Tobi is a highly skilled and dedicated python developer who has made significant contributions to our team and projects at BFT, consistently delivering high-quality work and demonstrating excellent problem-solving skills.
+

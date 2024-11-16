@@ -74,7 +74,9 @@ cv:
       - label: "French"
         details: "Native Speaker"
     references:
-      - label: "Aimé An-Nyong DEGBEY, Head of Development BFT Group"
-        details: ""
+      - name: "Aimé An-Nyong DEGBEY, Head of Development BFT Group"
+        location: "linkedin.com/in/aimé-an-nyong-degbey"
+        highlights:
+          - "Tobi is a highly skilled and dedicated python developer who has made significant contributions to our team and projects at BFT, consistently delivering high-quality work and demonstrating excellent problem-solving skills."
 design:
     theme: "engineeringresumes"

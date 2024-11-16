@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  14 NOV 2024 07:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  16 NOV 2024 09:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -655,7 +655,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.388 \end{document}
+l.395 \end{document}
                      [2]
 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -681,7 +681,7 @@ nytex-release/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></home
 x-release/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/tobi/build
 s/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/tinytex-release/T
 inyTeX/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
-Output written on Tobi_DEGNON_CV.pdf (2 pages, 46291 bytes).
+Output written on Tobi_DEGNON_CV.pdf (2 pages, 46695 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream
