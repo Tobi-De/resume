@@ -45,9 +45,13 @@ cv:
         location: "tobi-de.github.io/dj-shop-cart"
         highlights:
           - "Originally designed as a simple shopping cart manager, this project evolved into one of our team's most frequently used utilities due to its flexibility"
+      - name: "homelab"
+        start_date: "2024-09-11"
+        highlights:
+          - "Maintaining a simple single-node homelab server for learning and experimentation purposes. This system serves as a playground for containerized applications and DevOps practices."
     skills:
       - label: "Backend"
-        details: "Django, Python, Postgres, FastAPI"
+        details: "Django, Python, Postgres, FastAPI, C#, .NET, SQL Server"
       - label: "Frontend"
         details: "HTML / CSS, Javascript, TailwindCSS, Bootstrap, HTMX, AlpineJS"
       - label: "DevOps"
@@ -55,7 +59,7 @@ cv:
       - label: "Tools"
         details: "Git, Fabric, Nginx, Caddy, Sentry, PyCharm, VSCode"
       - label: "Currently Learning"
-        details: "Elixir, Phoenix"
+        details: "Elixir, Phoenix, GoLang"
     volunteer:
       - name: "Open Source"
         date: "2023-02"

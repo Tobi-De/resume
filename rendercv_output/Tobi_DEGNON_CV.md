@@ -50,13 +50,18 @@ Backend Django developer with 4 years of experience at startups, where I built p
 - tobi-de.github.io/dj-shop-cart
 - Originally designed as a simple shopping cart manager, this project evolved into one of our team's most frequently used utilities due to its flexibility
 
+## homelab
+
+- Sept 2024 – present
+- Maintaining a simple single-node homelab server for learning and experimentation purposes. This system serves as a playground for containerized applications and DevOps practices.
+
 # Skills
 
-- Backend: Django, Python, Postgres, FastAPI
+- Backend: Django, Python, Postgres, FastAPI, C#, .NET, SQL Server
 - Frontend: HTML / CSS, Javascript, TailwindCSS, Bootstrap, HTMX, AlpineJS
 - DevOps: Linux, Docker, AWS
 - Tools: Git, Fabric, Nginx, Caddy, Sentry, PyCharm, VSCode
-- Currently Learning: Elixir, Phoenix
+- Currently Learning: Elixir, Phoenix, GoLang
 # Volunteer
 
 ## Open Source

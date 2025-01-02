@@ -1,18 +1,18 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  16 NOV 2024 09:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  2 JAN 2025 10:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/tobi/builds/resume/rendercv_output/Tobi_DEGNON_CV.tex
-(/home/tobi/builds/resume/rendercv_output/Tobi_DEGNON_CV.tex
+**/home/tobi/resume/rendercv_output/Tobi_DEGNON_CV.tex
+(/home/tobi/resume/rendercv_output/Tobi_DEGNON_CV.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/base/article.cls
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count188
@@ -27,21 +27,21 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count196
@@ -57,8 +57,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box51
 \beforetitleunit=\skip50
@@ -70,12 +70,12 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidthlast=\dimen152
 \titlewidthfirst=\dimen153
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/tools/array.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen154
 \ar@mcellbox=\box52
@@ -93,22 +93,22 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \TX@cols=\count199
 \TX@ftn=\toks21
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -119,12 +119,12 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip54
 \enit@outerparindent=\dimen161
@@ -133,61 +133,60 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count266
 \enitdp@description=\count267
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-03-14 L3 programming layer (loader) 
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box55
 ))
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2024-03-14 LaTeX2e option processing using LaTeX3 keys
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2024-03-14 L3 Experimental document command parser
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-
-helper.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.
+sty
 Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
 tawesome5
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.
-def)))
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def)))
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip55
 
 For additional information on amsmath, use the `?' option.
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks23
 \ex@=\dimen162
 ))
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen163
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count269
@@ -238,68 +237,67 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.st
-y
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count281
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count282
 )
@@ -307,20 +305,20 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \Hy@linkcounter=\count283
 \Hy@pagecounter=\count284
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count285
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -335,20 +333,20 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
 \c@Hy@tempcnt=\count286
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/url/url.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen172
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -363,8 +361,8 @@ Package hyperref Info: Link coloring ON on input line 6081.
 Package hyperref Info: Link coloring with OCG OFF on input line 6088.
 Package hyperref Info: PDF/A mode OFF on input line 6093.
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -374,12 +372,12 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
@@ -387,12 +385,12 @@ with kernel methods
 \Fld@listcount=\count291
 \c@bookmark@seq@number=\count292
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -400,14 +398,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip58
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen175
 \ESO@tempdimb=\dimen176
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count293
 \calc@Bcount=\count294
@@ -420,39 +418,39 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count295
 \calc@Cskip=\skip61
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/bookmark/bookmark.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
 \BKM@id=\count296
 ))
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2024/04/27 v2.1a lastpage: 2.09 or 2e? (HMM)
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
 Package: lastpage2e 2024/04/27 v2.1a Decide which 2e lastpage version to use (H
 MM)
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
 Package: lastpagemodern 2024-04-27 v2.1a Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count297
 ) 
 ))
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/changepage/changepage.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count298
 \cp@tempcnt=\count299
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/paracol/paracol.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/paracol/paracol.sty
 Package: paracol 2018/12/31 v1.35 
 \pcol@currcol=\count300
 \pcol@nextcol=\count301
@@ -480,28 +478,28 @@ Package: paracol 2018/12/31 v1.35
 \pcol@colorins=\insert252
 \pcol@everyvbox=\toks28
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/needspace/needspace.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks29
 \inpenc@posthook=\toks30
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -536,18 +534,17 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/psnfss/charter.sty
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/psnfss/charter.sty
 Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
 )
 LaTeX Font Info:    Trying to load font information for T1+bch on input line 15
 4.
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/psnfss/t1bch.fd
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/psnfss/t1bch.fd
 File: t1bch.fd 2004/10/18 font definitions for T1/bch.
-)
-(./Tobi_DEGNON_CV.aux)
+) (./Tobi_DEGNON_CV.aux)
 \openout1 = `Tobi_DEGNON_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 154.
@@ -608,29 +605,29 @@ Package hyperref Info: Link coloring ON on input line 154.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
 60.
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
 60.
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
 160.
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
 160.
 
-(/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
+(/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -645,17 +642,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 210.
  [1
 
-{/home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/
-tinytex-release/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/home/tob
-i/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/tinytex-re
-lease/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/home/tobi/builds/resume/
-.venv/lib/python3.13/site-packages/rendercv/renderer/tinytex-release/TinyTeX/te
-xmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+{/home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex
+-release/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/home/tobi/resum
+e/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/TinyTeX/
+texmf-dist/fonts/enc/dvips/base/8r.enc}{/home/tobi/resume/.venv/lib/python3.12/
+site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dv
+ips/lm/lm-mathsy.enc}]
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.395 \end{document}
+l.410 \end{document}
                      [2]
 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -667,21 +664,21 @@ L3 programming layer <2024-03-14>
  ) 
 Here is how much of TeX's memory you used:
  15049 strings out of 476002
- 270651 string characters out of 5788363
- 1950496 words of memory out of 5000000
+ 269300 string characters out of 5788363
+ 1952496 words of memory out of 5000000
  36979 multiletter control sequences out of 15000+600000
  590582 words of font info for 62 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,7n,79p,412b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/rendere
-r/tinytex-release/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></
-home/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/ti
-nytex-release/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></home
-/tobi/builds/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/tinyte
-x-release/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/tobi/build
-s/resume/.venv/lib/python3.13/site-packages/rendercv/renderer/tinytex-release/T
-inyTeX/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
-Output written on Tobi_DEGNON_CV.pdf (2 pages, 46695 bytes).
+ 75i,7n,79p,405b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/tobi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinyt
+ex-release/TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></home/to
+bi/resume/.venv/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/
+TinyTeX/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></home/tobi/resume/.
+venv/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/TinyTeX/tex
+mf-dist/fonts/type1/public/lm/lmsy10.pfb></home/tobi/resume/.venv/lib/python3.1
+2/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type
+1/public/lm/lmsy9.pfb>
+Output written on Tobi_DEGNON_CV.pdf (2 pages, 47204 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream
