@@ -1,7 +1,6 @@
 # Tobi DEGNON's CV
 
 - Email: [tobidegnon@proton.me](mailto:tobidegnon@proton.me)
-- Location: Cotonou, BJ
 - Website: [oluwatobi.dev](https://oluwatobi.dev/)
 - GitHub: [tobi-de](https://github.com/tobi-de)
 
