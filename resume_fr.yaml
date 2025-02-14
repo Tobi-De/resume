@@ -1,0 +1,83 @@
+cv:
+  name: "Tobi DEGNON"
+  location: "Cotonou, BJ"
+  email: "tobidegnon@proton.me"
+  website: "https://oluwatobi.dev"
+  social_networks:
+    - network: "GitHub"
+      username: "tobi-de"
+  sections:
+    summary:
+      - "Développeur backend Django avec 4 ans d'expérience dans des startups, où j'ai construit des produits de A à Z, de l'architecture au déploiement"
+    experience:
+      - company: "BFTGROUP"
+        position: "Développeur Web Full Stack"
+        start_date: "2021-11-02"
+        highlights:
+          - "Amélioration des performances d'une application Django à fort trafic utilisée par des millions d'utilisateurs, grâce à l'optimisation des requêtes et au cache, réduisant les temps de chargement de 80 %"
+          - "Conception et mise en œuvre d'un outil de migration personnalisé pour transférer les données des clients depuis leur système existant vers notre plateforme, tout en garantissant l'intégrité des données et la continuité des activités"
+          - "Architecture, développement, test et documentation d'une application Django complète pour améliorer le suivi des contrats numériques pour un de nos clients"
+          - "Propositions régulières et développement d'outils pour améliorer l'expérience des développeurs, ce qui a conduit à une augmentation de la productivité et à la publication de plusieurs projets open source basés sur des idées réussies"
+          - "Développement d'un service Python responsable de la création d'environnements de test pour les développeurs afin de tester de nouvelles fonctionnalités"
+          - "Initiation et réalisation régulière de revues de code pour encourager le refactoring fréquent au sein de l'équipe"
+      - company: "EDEV"
+        position: "Développeur Web Full Stack (Télétravail)"
+        start_date: "2020-02-02"
+        end_date: "2021-10-01"
+        highlights:
+          - "Mise en place de toute l'infrastructure et des outils de l'entreprise, initialement déployés sur Heroku avant une migration vers un VPS pour réduire les coûts"
+          - "Architecture et développement de plusieurs applications Django complètes en tant que développeur unique"
+          - "Interaction directe avec les clients pour améliorer les solutions et corriger les bogues"
+          - "Intégration et mentorat des stagiaires"
+    projects:
+      - name: "falco"
+        start_date: "2023-12-15"
+        location: "falco.oluwatobi.dev"
+        highlights:
+          - "Une boîte à outils Django axée sur une expérience de développement plus rapide et meilleure. Falco est une compilation de mon expérience dans la création de meilleurs projets Django plus rapidement. Il inclut un modèle de projet, une génération de vues CRUD, une CI/CD intégrée, une gestion des versions de projet avec génération automatique de changelogs, et plus encore."
+      - name: "fujin"
+        start_date: "2024-10-13"
+        location: "fujin.oluwatobi.dev"
+        highlights:
+          - "Un outil de déploiement pour projets web. Initialement conçu comme un ensemble de scripts pour aider notre équipe à déployer rapidement des projets Django en production avec une excellente expérience de développement, il est maintenant emballé en tant qu'outil CLI open source."
+      - name: "dj-shop-cart"
+        start_date: "2022-02-28"
+        location: "tobi-de.github.io/dj-shop-cart"
+        highlights:
+          - "Conçu à l'origine comme un simple gestionnaire de panier d'achat, ce projet est devenu l'un des outils les plus fréquemment utilisés par notre équipe grâce à sa flexibilité."
+    skills:
+      - label: "Backend"
+        details: "Django, Python, Postgres, FastAPI"
+      - label: "Frontend"
+        details: "HTML / CSS, Javascript, TailwindCSS, Bootstrap, HTMX, AlpineJS"
+      - label: "DevOps"
+        details: "Linux, Docker, AWS"
+      - label: "Outils"
+        details: "Git, Fabric, Nginx, Caddy, Sentry, PyCharm, VSCode"
+      - label: "En cours d'apprentissage"
+        details: "Elixir, Phoenix"
+    volunteer:
+      - name: "Open Source"
+        date: "2023-02"
+        highlights:
+          - "Contribution à divers projets open source de différentes manières, y compris l'implémentation de nouvelles fonctionnalités, le signalement de bogues, la mise à jour de la documentation, etc."
+    education:
+      - institution: "Institut De Formation Et De Recherche En Informatique (IFRI)"
+        area: "Informatique (inachevé)"
+        degree: "Licence"
+        start_date: "2016-11-01"
+        end_date: "2020-01-01"
+        highlights: []
+    languages:
+      - label: "Anglais"
+        details: "Professionnel"
+      - label: "Français"
+        details: "Langue maternelle"
+    references:
+      - name: "Aimé An-Nyong DEGBEY, Responsable Développement BFT Group"
+        location: "linkedin.com/in/aimé-an-nyong-degbey"
+        highlights:
+          - "Tobi est un développeur Python très compétent et dévoué qui a apporté des contributions significatives à notre équipe et à nos projets chez BFT, livrant constamment un travail de haute qualité et démontrant d'excellentes compétences en résolution de problèmes."
+design:
+    theme: "engineeringresumes"
+
