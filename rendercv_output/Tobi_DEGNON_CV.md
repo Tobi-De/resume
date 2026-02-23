@@ -6,12 +6,22 @@
 
 
 # Summary
-Backend Django developer with 4 years of experience at startups, where I built products from the ground up, from architecture to deployment
+Backend Django developer with 5 years of experience at startups, where I built products from the ground up, from architecture to deployment
 
 # Experience
+## **Backend Engineer**, Fasfox
+
+Mar 2025 – present
+
+- Building backend services with Django and Django REST Framework
+
+- Optimizing database queries for improved application performance
+
+
+
 ## **Full Stack Web Developer**, BFTGROUP
 
-Nov 2021 – present
+Nov 2021 – Feb 2025
 
 - Improved performance of a high-traffic Django application serving millions of users through query optimization and caching, reducing load times by 80%
 

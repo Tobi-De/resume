@@ -94,9 +94,26 @@
 
 == Summary
 
-Backend Django developer with 4 years of experience at startups, where I built products from the ground up, from architecture to deployment
+Backend Django developer with 5 years of experience at startups, where I built products from the ground up, from architecture to deployment
 
 == Experience
+
+#regular-entry(
+  [
+    #strong[Backend Engineer], Fasfox
+
+  ],
+  [
+    Mar 2025 – present
+
+  ],
+  main-column-second-row: [
+    - Building backend services with Django and Django REST Framework
+
+    - Optimizing database queries for improved application performance
+
+  ],
+)
 
 #regular-entry(
   [
@@ -104,7 +121,7 @@ Backend Django developer with 4 years of experience at startups, where I built p
 
   ],
   [
-    Nov 2021 – present
+    Nov 2021 – Feb 2025
 
   ],
   main-column-second-row: [

@@ -8,11 +8,18 @@ cv:
       username: "tobi-de"
   sections:
     summary:
-      - "Développeur backend Django avec 4 ans d'expérience dans des startups, où j'ai construit des produits de A à Z, de l'architecture au déploiement"
+      - "Développeur backend Django avec 5 ans d'expérience dans des startups, où j'ai construit des produits de A à Z, de l'architecture au déploiement"
     experience:
+      - company: "Fasfox"
+        position: "Ingénieur Backend"
+        start_date: "2025-03-01"
+        highlights:
+          - "Développement de services backend avec Django et Django REST Framework"
+          - "Optimisation des requêtes de base de données pour améliorer les performances de l'application"
       - company: "BFTGROUP"
         position: "Développeur Web Full Stack"
         start_date: "2021-11-02"
+        end_date: "2025-02-28"
         highlights:
           - "Amélioration des performances d'une application Django à fort trafic utilisée par des millions d'utilisateurs, grâce à l'optimisation des requêtes et au cache, réduisant les temps de chargement de 80 %"
           - "Conception et mise en œuvre d'un outil de migration personnalisé pour transférer les données des clients depuis leur système existant vers notre plateforme, tout en garantissant l'intégrité des données et la continuité des activités"
